@@ -1,4 +1,4 @@
-function sum(a,b)
+function multi(a,b)
 {
-    return a+b;
+    return a*b;
 }
